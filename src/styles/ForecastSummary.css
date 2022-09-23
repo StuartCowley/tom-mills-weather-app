@@ -1,0 +1,11 @@
+.forecast-summary {
+  text-align: center;
+}
+
+.forecast-summary__date {
+  font-weight: bold;
+}
+
+.forecast-summary__icon {
+  font-size: 30px;
+}
